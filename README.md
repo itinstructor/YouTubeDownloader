@@ -2,13 +2,16 @@
 
 A Python project using pytubefix to download video or audio from YouTube.
 
-This project uses the <a href="https://github.com/JuanBindez/pytubefix">pytubefix </a> library.
+This project uses the [pytubefix](https://github.com/JuanBindez/pytubefix")library.
 
 ## Youtube Audio Downloader Version History
 
 - 10/31/2024 V3 Switch to pytubefix
 - (02-15-23) V2 Add menu to continue downloading another link or exit.
 - (02-03-23) V1 Download an mp3 audio file from a YouTube video link.
+
+- Facebook: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
+- YouTube: [YouTube WINCC IT Program](https://www.youtube.com/@williamloringitinstructor)
 
 ## License
 
